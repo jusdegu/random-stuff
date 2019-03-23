@@ -7,7 +7,6 @@
     This program just finds all palimdromic substrings within a string.
 
     Compiled with: g++ -std=c++11 palindromes.cpp -o pal.exe
-
 */
 
 #include <iostream>
@@ -119,10 +118,6 @@ string stringify(deque<char> deq) {
     - ii
     - wqqw
     - qq
-
-    aaaaaaaa
-    - aabaa
-    - aa
-    - aba
-    - aa
+    
+    
 */
