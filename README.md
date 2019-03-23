@@ -6,3 +6,5 @@ This repository just contains random files and programs. This readme will contai
 22 March 2019
 palindromes.cpp
   - Super simple program: enter a string, and return a list of all palindromes within that string with length > 1 . Not case-sensitive.
+
+
