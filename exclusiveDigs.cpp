@@ -3,6 +3,8 @@
  *  25 March 2019
  * 
  *  This program iterates through number ranges l and r and returns numbers that contain 6 or 8.
+ * 
+ * Compiled with: g++ -std=c++11 exclusiveDigs.cpp -o ex.x
  */
 
 #include <iostream>
